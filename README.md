@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AdriaSG
-- 👀 I’m interested in Data Science and its application to social impact topics. 
-- 🌱 I’m currently learning Machine Learning applications in Python and R. 
+- 🎓 MSc. Data Scientist based in Berlin
+- 👀 And curious about Natural Language Procesing and Large Language Models.
+- 💡 Specially interested in social, sustainability and music domains.
 - 📫 You can reach me at adrianasg.15@gmail.com
 
 <!---
